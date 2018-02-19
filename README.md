@@ -1,1 +1,1 @@
-# Collection of Python notebook related to machine learning
+# Collection of Python notebooks related to machine learning

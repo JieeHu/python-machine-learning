@@ -10,7 +10,7 @@
 ###### Logistic regression
 ###### Decision trees
 
-### Recommendation system
+### Recommendation System
 
 ### Computer Vision
 ###### Convolutional Neural Network
